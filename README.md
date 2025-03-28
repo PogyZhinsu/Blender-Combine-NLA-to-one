@@ -62,8 +62,8 @@ Any contributions is welcome to this repository
    - Include a clear description of your changes and why they are beneficial.
 
 7. **Code Style**:
-   - Follow the existing code style and conventions used in the addons for consistency.
-   - Mostly add comment on what certain actually do so other that need piece of something can know and easily backtrace to certain function
+   - Mostly add comment on what certain code actually do or add contexts, so other contributor know what and where to look at certain function
+   - It should be easy to backtrace certain function
   
 
 ## License
